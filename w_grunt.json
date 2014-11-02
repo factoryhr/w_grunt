@@ -1,0 +1,9 @@
+{
+	"grunt_on_save": true,
+
+	"copy_to_clipboard" : true,
+	"copy_dev_source" : false,
+
+	"devSource" : "build/dev/build.js",
+	"productSource" : "build/production/build.min.js"
+}
