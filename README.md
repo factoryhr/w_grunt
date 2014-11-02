@@ -21,13 +21,12 @@ You must specify all of the keys from example below.
 }
 ```
 
-``` copy_to_clipboard ``` - If true it will copy the generated dev or production source
-``` copy_dev_source ``` - If true it will copy dev source to clipboard, false - production source
-``` devSource ``` - Destination of development sources
-``` productSource ``` - Destionation of production sources
+``` copy_to_clipboard ``` - If true it will copy the generated dev or production source<br>
+``` copy_dev_source ``` - If true it will copy dev source to clipboard, false - production source<br>
+``` devSource ``` - Destination of development sources<br>
+``` productSource ``` - Destionation of production sources<br>
 
-Note ``` devSource ``` and ``` productSource ``` must be the configured inside Gruntfile.js. You can load w_grunt.json
-file and use information from it.
+Note ``` devSource ``` and ``` productSource ``` must be the configured inside Gruntfile.js. You can load w_grunt.json file and use information from it.
 
 
 
